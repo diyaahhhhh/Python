@@ -1,4 +1,4 @@
-# 🐍 Python
+## 🐍 Python
 
 Simple Python codes
 
